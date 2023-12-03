@@ -23,4 +23,6 @@ Le fichier `strings.xml` dans un projet Android est utilisé pour stocker toutes
    ![image](https://github.com/karimaZr/fichier_Strings/assets/128175856/71590215-dc62-41b9-880f-0945d90769a2)
 5. Ajoutez vos chaînes de caractères avec la syntaxe suivante :
   ![image](https://github.com/karimaZr/fichier_Strings/assets/128175856/d6d35176-1112-466f-b183-0c5d992f21d4)
+## Changement de Langue de l'Application
+L'application prend automatiquement en charge la langue du téléphone. Essayez de changer la langue de votre téléphone, et observez comment l'application adapte la langue en fonction des chaînes définies dans le fichier strings.xml.
 
