@@ -1,0 +1,26 @@
+<!-- res/values-es/strings.xml -->
+<resources>
+    <array name="villes">
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>El Jadida</item>
+    </array>
+
+    <string name="app_name">MiApp</string>
+    <string name="hint_nom">Ingrese su nombre</string>
+    <string name="hint_prenom">Ingrese su apellido</string>
+    <string name="hint_phone">Ingrese su número de teléfono</string>
+    <string name="radio_femme">Mujer</string>
+    <string name="radio_homme">Hombre</string>
+    <string name="hint_adresse">Ingrese su dirección</string>
+    <string name="button_envoyer">Enviar</string>
+    <string name="label_nom">Nombre:</string>
+    <string name="label_prenom">Apellido:</string>
+    <string name="label_phone">Teléfono:</string>
+    <string name="label_adresse">Dirección:</string>
+    <string name="label_genre">Género:</string>
+    <string name="label_ville">Ciudad:</string>
+    <string name="genre_femme">Mujer</string>
+    <string name="genre_homme">Hombre</string>
+</resources>

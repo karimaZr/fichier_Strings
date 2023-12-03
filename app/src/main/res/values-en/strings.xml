@@ -1,0 +1,26 @@
+<resources>
+    <array name="villes">
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>El Jadida</item>
+    </array>
+
+    <string name="app_name">MyApp</string>
+    <string name="hint_nom">Enter your name</string>
+    <string name="hint_prenom">Enter your first name</string>
+    <string name="hint_phone">Enter your phone number</string>
+    <string name="label_genre">Gender:</string>
+    <string name="radio_femme">Female</string>
+    <string name="radio_homme">Male</string>
+    <string name="hint_adresse">Enter your address</string>
+    <string name="button_envoyer">Send</string>
+    <string name="label_nom">Name:</string>
+    <string name="label_prenom">First Name:</string>
+    <string name="label_phone">Phone:</string>
+    <string name="label_adresse">Address:</string>
+
+    <string name="label_ville">City:</string>
+    <string name="genre_femme">Female</string>
+    <string name="genre_homme">Male</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <array name="villes">
+        <item>الدار البيضاء</item>
+        <item>الرباط</item>
+        <item>فاس</item>
+        <item>الجديدة</item>
+    </array>
+
+    <string name="app_name">تطبيقي</string>
+    <string name="hint_nom">أدخل نسبك </string>
+    <string name="hint_prenom">أدخل اسمك </string>
+    <string name="hint_phone">أدخل رقم هاتفك</string>
+    <string name="label_genre">النوع:</string>
+    <string name="radio_femme">أنثى</string>
+    <string name="radio_homme">ذكر</string>
+    <string name="hint_adresse">أدخل عنوانك</string>
+    <string name="button_envoyer">إرسال</string>
+    <string name="label_nom">النسب :</string>
+    <string name="label_prenom">الاسم:</string>
+    <string name="label_phone">الهاتف:</string>
+    <string name="label_adresse">العنوان:</string>
+    <string name="label_ville">المدينة:</string>
+    <string name="genre_femme">أنثى</string>
+    <string name="genre_homme">ذكر</string>
+</resources>

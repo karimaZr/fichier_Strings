@@ -1,0 +1,28 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <array name="villes">
+        <item>Casablaca</item>
+        <item>Rabat</item>
+        <item>Fes</item>
+        <item>El jadida</item>
+    </array>
+
+    <string name="app_name">MyApp</string>
+    <string name="hint_nom">Saisissez votre nom</string>
+    <string name="hint_prenom">Saisissez votre prénom</string>
+    <string name="hint_phone">Saisissez votre numéro de téléphone</string>
+    <string name="radio_femme">Femme</string>
+    <string name="radio_homme">Homme</string>
+    <string name="hint_adresse">Saisissez votre adresse</string>
+    <string name="button_envoyer">Envoyer</string>
+    <string name="label_nom">Nom:</string>
+    <string name="label_prenom">Prénom :</string>
+    <string name="label_phone">Téléphone :</string>
+    <string name="label_adresse">Adresse :</string>
+    <string name="label_genre">Genre :</string>
+    <string name="label_ville">Ville :</string>
+    <string name="genre_femme">Femme</string>
+    <string name="genre_homme">Homme</string>
+
+
+</resources>
